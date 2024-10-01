@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #525a51;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #747474;
+}
+h1{
+    margin-left: 20px;
+    font-size: 1.3rem;
+}
+h1 span{ 
+    color:#5a9d4d;
+}
+header nav ul{
+    display: flex;
+    list-style: none;
+}
+header nav ul li{
+    margin-left: 20px;
+    font-size: 0.8rem;
+}
